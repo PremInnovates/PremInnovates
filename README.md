@@ -9,7 +9,11 @@
 
 ### 🔨 Current Projects
 - **eService** — a platform for booking repair appointments for electronic devices
-- **ChangeNow** — an upcoming portfolio project
+- **ChargeNow** — a completed app that helps EV owners stranded with a low/dead battery in an unknown location. Users book an on-demand charging request, and a ChargeNow employee drives a van to their location to charge the EV on the spot.
+  - **Frontend:** HTML, CSS, JavaScript, Bootstrap
+  - **Backend:** Python (Django), REST APIs
+  - **Payments:** Razorpay integration
+  - **Other:** Location tracking, SQLite3 database
 
 ### 🎯 Goals
 Becoming a top-tier **Full Stack + AI Developer**, shipping products with real-world impact, and eventually building software that generates income.
